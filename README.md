@@ -4,7 +4,7 @@
 
 <!-- About Me -->
 <p align="center">
-  Sou um desenvolvedor em formação com foco em construir aplicações web e mobile. Gosto de explorar novas tecnologias e aplicar as melhores práticas de desenvolvimento.
+  Sou um desenvolvedor em formação com foco em construir aplicações web. Gosto de explorar novas tecnologias e aplicar as melhores práticas de desenvolvimento.
 
 <!-- Social Icons -->
 <p align="center">
