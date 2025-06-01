@@ -24,15 +24,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rfamiglietti&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfamiglietti&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 💬 Vamos conversar?
 
-- 📫 Me chama no LinkedIn: [Seu LinkedIn aqui](https://linkedin.com/in/seu-perfil)
+- 📫 Me chama no LinkedIn: [Rômulo Pereira Famiglietti](www.linkedin.com/in/rômulo-famiglietti)
 - 🌍 Veja meus projetos fixados aqui no GitHub
 - 🧠 Sempre aprendendo. Sempre criando.
 
