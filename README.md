@@ -1,30 +1,42 @@
-<!-- Header -->
-<h1 align="center">Olá, Eu Sou Rômulo Famiglietti 👋</h1>
-<h3 align="center">Técnico em Desenvolvimento de Sistemas | Apaixonado por Programação e Tecnologia</h3>
+# 👋 Olá, eu sou o Romulo!
 
-<!-- About Me -->
-<p align="center">
-  Sou um desenvolvedor em formação com foco em construir aplicações web. Gosto de explorar novas tecnologias e aplicar as melhores práticas de desenvolvimento.
+🎓 Estudante de **Desenvolvimento de Sistemas** e **Engenharia de Software** na USJT  
+💻 Curioso nato por tecnologia, dev full-stack em formação e entusiasta de ideias fora da caixinha  
+🧠 Apaixonado por IA, projetos criativos e aquele café quentinho enquanto codamos ☕
 
-<!-- Social Icons -->
+---
+
+## 🚀 Sobre mim
+
+- 🌱 Atualmente estou aprendendo: Python, Banco de Dados, HTML/CSS e Git
+- ⚙️ Interesso-me por: Desenvolvimento Web, Inteligência Artificial e Metodologias Ágeis (Scrum 🌀)
+- 🛠️ Ferramentas que já uso:
+  - `HTML` `CSS` `Python` `MySQL` `Figma` `Tinkercad`
+- 📚 Projetos que já fiz:
+  - 🔐 Simulação de **Urna Eletrônica** com Python
+  - 📸 **Portfólio de Fotografia** com HTML/CSS
+  - 📖 **Blog de Livros** literários
+  - 🧭 Prototipagem do app **Dream Match** (turismo + IA)
+  - 🎯 Sistema acadêmico com modelagem de dados
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rômulo-famiglietti" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/r_famiglietti" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=tokyonight"/>
 </p>
 
-### 📊 Minhas Estatísticas no GitHub
+---
 
-![Estatísticas do GitHub de rfamiglietti](https://github-readme-stats.vercel.app/api?username=rfamiglietti&show_icons=true&theme=radical)
+## 💬 Vamos conversar?
 
-### 🏆 Linguagens Mais Usadas
+- 📫 Me chama no LinkedIn: [Seu LinkedIn aqui](https://linkedin.com/in/seu-perfil)
+- 🌍 Veja meus projetos fixados aqui no GitHub
+- 🧠 Sempre aprendendo. Sempre criando.
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rfamiglietti&layout=compact&theme=radical)
+---
 
-### 🏆 Troféus de Perfil do GitHub
-
-![Troféus de Perfil do GitHub](https://github-profile-trophy.vercel.app/?username=rfamiglietti&theme=onedark)
+> *“Todo expert já foi um iniciante que não desistiu.”* — Alguém muito sábio (provavelmente um dev sem sono às 3h da manhã)
 
